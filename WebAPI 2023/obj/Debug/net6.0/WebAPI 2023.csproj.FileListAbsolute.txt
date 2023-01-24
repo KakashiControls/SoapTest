@@ -1,0 +1,41 @@
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\appsettings.Development.json
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\appsettings.json
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\WebAPI 2023.exe
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\WebAPI 2023.deps.json
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\WebAPI 2023.runtimeconfig.json
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\WebAPI 2023.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\WebAPI 2023.pdb
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.csproj.AssemblyReference.cache
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.AssemblyInfoInputs.cache
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.AssemblyInfo.cs
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.csproj.CoreCompileInputs.cache
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\staticwebassets.build.json
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\staticwebassets.development.json
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\scopedcss\bundle\WebAPI 2023.styles.css
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.csproj.CopyComplete
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\refint\WebAPI 2023.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.pdb
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\WebAPI 2023.genruntimeconfig.cache
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\obj\Debug\net6.0\ref\WebAPI 2023.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\SoapCore.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\System.CodeDom.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\System.Private.ServiceModel.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\System.ServiceModel.Http.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\System.ServiceModel.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP Net Core Data\Universitäts API\WebAPI 2023\WebAPI 2023\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
